@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43.664mm" height="9.0047mm" version="1.1" viewBox="0 0 43.664 9.0047" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-30.145 -43.296)" fill="#000000" font-size="10.583px">
+  <text font-family="sans-serif" style="line-height:1.25;shape-inside:url(#rect12);white-space:pre" xml:space="preserve"/>
+  <text font-family="Hack" stroke="#ffffff" style="line-height:1.25;paint-order:stroke fill markers;shape-inside:url(#rect18);white-space:pre" xml:space="preserve"><tspan x="29.425781" y="51.650849"><tspan fill="#000000" font-family="Hack" stroke="#ffffff" style="paint-order:stroke fill markers">1010011</tspan></tspan></text>
+ </g>
+</svg>
