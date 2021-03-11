@@ -1,0 +1,22 @@
+
+@font-face { font-family:"TopazPlus"; src: url(./topazplus500.ttf);}
+body { color: #dddddd;
+       background-color: #0c0d10; 
+       font-size: 16px;
+       line-height: 16px;
+       margin: 0 auto;
+       padding: 1em 0 1em 0;
+     }
+pre { font-family:"TopazPlus", "Lucida Console", monospace, Monaco; }
+a { color: #98f5ff; text-decoration: none; }
+iky { color: #74ee15; }
+y { color: #ffa298; }
+gy { color: #f5ff98; }
+w { color: #ffffff; }
+gr { color: #b5bd68; }
+r { color: #f22e2e; }
+pnk { color: #f4b6e5; }
+bb { color: #5cc2ca; }
+prp { color: #7a80a2; }
+l { color: #c5c8c6; }
+lg { color: #9de9a9; }
